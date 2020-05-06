@@ -25,7 +25,7 @@ header {
 #img {
   /* outline: 1px solid yellow; */
   width: 95vw;
-  height: 80vh;
+  height: 500px;
   margin: auto;
   background-color: #262626;
   display: flex;
